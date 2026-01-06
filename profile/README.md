@@ -30,6 +30,6 @@
 
 <div align="center">
 
-**🚀 Total 21 Members | 운영진 5 · 아기사자 0**
+**🚀 Total 5 Members | 운영진 5 · 아기사자 0**
 
 </div>

@@ -24,7 +24,7 @@
 ---
 
 ## 🦁 14기 아기사자
-김민수(Betts)·김지현(Kimchi)·권아영(Yong)·김해름(Romi)·김승욱(Bamti)·김병진(Andrew)·김지훈(Eco)·노남경(Byo)·박준형(Jay)·백다혜(Corim)·유현(Ddazi)·이재현(Milo)·이서연(skull)·이관형(Fabi)·정은영(Zero)
+김민수(Betts)·김지현(Kimchi)·권아영(Yong)·김해름(Romi)·김승욱(Bamti)·김병진(Andrew)·김지훈(Eco)·노남경(Byo)·박준형(Jay)·백다혜(Corim)·유현(Ddazi)·이재현(Millo)·이서연(skull)·이관형(Fabi)·정은영(Zero)
 
 ---
 
